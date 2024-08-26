@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2roT+Ub2bPhnli4DVWQTVORh8ym+yFY+oDjwI4j0146aV2kOsWbwtmb5fGkf3dKZlO4tE1hIGQ5NRMtC+ke9g==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\Varios\\testTDD\\PruebaTDD\\PruebaTDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jairx\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit\\2.9.0\\xunit.2.9.0.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit.analyzers\\1.15.0\\xunit.analyzers.1.15.0.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit.assert\\2.9.0\\xunit.assert.2.9.0.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit.core\\2.9.0\\xunit.core.2.9.0.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit.extensibility.core\\2.9.0\\xunit.extensibility.core.2.9.0.nupkg.sha512",
+    "C:\\Users\\jairx\\.nuget\\packages\\xunit.extensibility.execution\\2.9.0\\xunit.extensibility.execution.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

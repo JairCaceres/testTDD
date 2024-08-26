@@ -1,0 +1,14 @@
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\bin\Debug\net6.0\PruebaTDD.deps.json
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\bin\Debug\net6.0\PruebaTDD.runtimeconfig.json
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\bin\Debug\net6.0\PruebaTDD.dll
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\bin\Debug\net6.0\PruebaTDD.pdb
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.csproj.AssemblyReference.cache
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.AssemblyInfoInputs.cache
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.AssemblyInfo.cs
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.csproj.CoreCompileInputs.cache
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.dll
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\refint\PruebaTDD.dll
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.pdb
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\PruebaTDD.genruntimeconfig.cache
+D:\Escritorio\Varios\PruebaTDD-test\PruebaTDD\obj\Debug\net6.0\ref\PruebaTDD.dll
